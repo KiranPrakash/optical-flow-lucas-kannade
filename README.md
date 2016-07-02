@@ -1,0 +1,2 @@
+# optical-flow-lucas-kannade
+Optical flow is the pattern of apparent motion of image objects between two consecutive frames caused by the movemement of object or camera. It is 2D vector field where each vector is a displacement vector showing the movement of points from first frame to second.  A simple application is created that can track points that are in motion. Here images in 2D are used for the implementation of the project. GoodFeaturesToTrack() are the deciding points as per the OpenCV library.  
